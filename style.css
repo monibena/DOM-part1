@@ -1,0 +1,11 @@
+#ghostIcon {
+  font-size: 100px;
+}
+
+.bunny {
+  font-size: 100px;
+}
+
+.bunny:hover {
+  visibility: hidden;
+}
